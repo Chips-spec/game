@@ -13,7 +13,7 @@ body {
 .field {
     width: 400px;
     height: 400px;
-    background-color: #9775AA;
+    background-color: cornflowerblue;
     border-radius: 5px;
     position: relative;
 }
@@ -26,12 +26,12 @@ body {
 }
 
 .field__cell--null {
-    background-color: #764B8E;
+    background-color: darkslateblue;
 }
 
 .field__cell--tile {
-    background-color: #3D1255;
-    color: white;
+    background-color: darkblue;
+    color: aliceblue;
     font-size: 42px;
     font-weight: bold;
     display: flex;
